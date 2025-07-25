@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Scot",
+    "last_name": "Orrin",
+    "email": "sorrin0@blinklist.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Brande",
+    "last_name": "Arnson",
+    "email": "barnson1@purevolume.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Teresita",
+    "last_name": "Ruddiman",
+    "email": "truddiman2@psu.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Lurline",
+    "last_name": "Rymmer",
+    "email": "lrymmer3@ucla.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Vere",
+    "last_name": "Neame",
+    "email": "vneame4@icq.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Seamus",
+    "last_name": "Adriaan",
+    "email": "sadriaan5@surveymonkey.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Phelia",
+    "last_name": "Humpatch",
+    "email": "phumpatch6@ft.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Enrico",
+    "last_name": "Smy",
+    "email": "esmy7@dropbox.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Glen",
+    "last_name": "Dinley",
+    "email": "gdinley8@cargocollective.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Lionello",
+    "last_name": "McColgan",
+    "email": "lmccolgan9@cdc.gov",
+    "gender": "Male"
+  }
+]

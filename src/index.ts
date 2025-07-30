@@ -3,7 +3,6 @@ import express from "express";
 import dummyUsers from "../dummy.json";
 
 const app = express();
-console.log("process.env.PORT = ", process.env.PORT);
 const port = process.env.PORT || 3000;
 
 app.get("/", (req: Request, res: Response) => {

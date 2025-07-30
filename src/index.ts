@@ -3,7 +3,8 @@ import express from "express";
 import dummyUsers from "../dummy.json";
 
 const app = express();
-const port = 3000;
+console.log("process.env.PORT = ", process.env.PORT);
+const port = process.env.PORT || 3000;
 
 app.get("/", (req: Request, res: Response) => {
   res.send("Hello World!");
@@ -14,5 +15,5 @@ app.get("/api/test", (req: Request, res: Response) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`Dummy API listening on port "${port}"`);
 });
